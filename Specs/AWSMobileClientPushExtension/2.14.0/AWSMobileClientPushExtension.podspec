@@ -13,8 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Karpyshyn/aws-sdk-ios.git",
-    "tag": "2.14.0",
-    "commit": "606705412af8c808a7a2e7846384cfc2754067dd"
+    "tag": "2.14.0"
   },
   "requires_arc": true,
   "dependencies": {
