@@ -1,5 +1,5 @@
 {
-  "name": "AWSMobileClientPushExtension",
+  "name": "AWSMobileClient",
   "version": "2.14.0",
   "summary": "Amazon Web Services SDK for iOS.",
   "description": "The AWS SDK for iOS provides a library, code samples, and documentation for developers to build connected mobile applications using AWS.",
